@@ -1,8 +1,8 @@
 class Muse < Formula
   desc "Apple Music in your terminal"
   homepage "https://github.com/songhyun-k/muse"
-  url "https://github.com/songhyun-k/muse/releases/download/v0.2.0/muse-macos-arm64.tar.gz"
-  sha256 "8a38b154f40d58286024e75e13b0c140c3598aaa723aa2ff94d38c06b23ebe81"
+  url "https://github.com/songhyun-k/muse/releases/download/v0.3.0/muse-macos-arm64.tar.gz"
+  sha256 "08b0853f5597b728e9791c7eaeec69bda7a2a07810eccdfd43713a7ac79b3a21"
   license "MIT"
 
   depends_on arch: :arm64
